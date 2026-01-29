@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Short Questions – Health Psychology</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header-controls">
+            <a href="index.html" class="btn" style="background-color: #7f8c8d; color: white; text-decoration: none;">&larr; Home</a>
+            
+            <div class="filter-group">
+                <label for="lecture-filter">Filter by:</label>
+                <select id="lecture-filter" class="btn">
+                    <option value="all">All Lectures</option>
+                    <option value="L1">Lecture 1</option>
+                    <option value="L2">Lecture 2</option>
+                    <option value="L3">Lecture 3</option>
+                    <option value="L4">Lecture 4</option>
+                    <option value="L5">Lecture 5</option>
+                    <option value="L6">Lecture 6</option>
+                    <option value="L7">Lecture 7</option>
+                    <option value="L8">Lecture 8</option>
+                </select>
+            </div>
+            
+            <div class="action-buttons" style="display: flex; gap: 10px;">
+                <button id="show-all-btn" class="btn" style="background-color: #3182ce; color: white;">Show All Answers</button>
+                <button id="reset-short-btn" class="btn" style="background-color: #e53e3e; color: white;">Reset</button>
+            </div>
+        </div>
+
+        <h1>Short Questions Revision</h1>
+        <p style="text-align: center; color: #666; margin-bottom: 30px;">Tap "Show Answer" to test your memory.</p>
+        
+        <div id="short-questions-container" class="grid-layout">
+            <!-- Questions rendered here -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

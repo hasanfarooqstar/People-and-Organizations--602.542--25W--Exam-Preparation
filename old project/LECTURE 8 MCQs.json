@@ -1,0 +1,275 @@
+[
+    {
+        "lecture": "L8",
+        "slide": "S2",
+        "type": "From Slide",
+        "question": "What virus caused the COVID-19 pandemic?",
+        "options": [
+            "SARS-CoV-1",
+            "MERS-CoV",
+            "SARS-CoV-2",
+            "Influenza A"
+        ],
+        "answer": "SARS-CoV-2"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S3-5",
+        "type": "From Slide",
+        "question": "What was the approximate global COVID-19 death rate by January 2023?",
+        "options": [
+            "5%",
+            "3%",
+            "1%",
+            "10%"
+        ],
+        "answer": "1%"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "What does excess mortality refer to?",
+        "options": [
+            "Deaths from infectious diseases only",
+            "Deaths above what is expected in a normal time period",
+            "Deaths caused by hospitals",
+            "Deaths due to vaccination"
+        ],
+        "answer": "Deaths above what is expected in a normal time period"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "How did excess deaths change in Austria in 2020?",
+        "options": [
+            "Decreased by 10%",
+            "No change",
+            "Increased by 31%",
+            "Increased by 5%"
+        ],
+        "answer": "Increased by 31%"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S11",
+        "type": "From Slide",
+        "question": "Which area had the highest number of COVID-19 related publications?",
+        "options": [
+            "Health communication",
+            "Mental disorders",
+            "Health behaviors",
+            "Social media"
+        ],
+        "answer": "Mental disorders"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S12-13",
+        "type": "Application MCQ",
+        "question": "Which behavior helps prevent infectious disease spread?",
+        "options": [
+            "Ignoring symptoms",
+            "Avoiding testing",
+            "Mask wearing and hand washing",
+            "Delaying quarantine"
+        ],
+        "answer": "Mask wearing and hand washing"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "Which factor increases risk of severe COVID-19?",
+        "options": [
+            "Young age",
+            "Low BMI",
+            "Obesity",
+            "Regular exercise"
+        ],
+        "answer": "Obesity"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S19",
+        "type": "From Slide",
+        "question": "Which is a psychosocial consequence of COVID-19?",
+        "options": [
+            "Improved sleep",
+            "Increased physical activity",
+            "Social isolation and anxiety",
+            "Reduced stress"
+        ],
+        "answer": "Social isolation and anxiety"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S23-24",
+        "type": "From Slide",
+        "question": "Who developed the smallpox vaccine?",
+        "options": [
+            "Louis Pasteur",
+            "Edward Jenner",
+            "Jonas Salk",
+            "Alexander Fleming"
+        ],
+        "answer": "Edward Jenner"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S25",
+        "type": "From Slide",
+        "question": "Vaccinations are considered effective because they:",
+        "options": [
+            "Eliminate all diseases",
+            "Reduce health care costs and save lives",
+            "Replace medical care",
+            "Only help children"
+        ],
+        "answer": "Reduce health care costs and save lives"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S27",
+        "type": "Exam Style",
+        "question": "Why is vaccination misinformation dangerous?",
+        "options": [
+            "It reduces immunity",
+            "It increases vaccination rates",
+            "It leads to reduced trust and outbreaks",
+            "It improves health literacy"
+        ],
+        "answer": "It leads to reduced trust and outbreaks"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S34-36",
+        "type": "From Slide",
+        "question": "Which factor is NOT part of the Theory of Planned Behavior?",
+        "options": [
+            "Attitudes",
+            "Subjective norms",
+            "Perceived behavioral control",
+            "Genetic predisposition"
+        ],
+        "answer": "Genetic predisposition"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S35",
+        "type": "Application MCQ",
+        "question": "Believing that friends support exercising reflects which TPB component?",
+        "options": [
+            "Attitudes",
+            "Subjective norms",
+            "Intentions",
+            "Perceived control"
+        ],
+        "answer": "Subjective norms"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S41",
+        "type": "From Slide",
+        "question": "Which country spends the highest percentage of GDP on health care?",
+        "options": [
+            "Germany",
+            "Austria",
+            "USA",
+            "Canada"
+        ],
+        "answer": "USA"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S45",
+        "type": "Application MCQ",
+        "question": "Why do some people delay seeking medical help?",
+        "options": [
+            "Symptoms are always clear",
+            "Fear and misinterpretation of symptoms",
+            "Doctors are unavailable",
+            "Lack of hospitals"
+        ],
+        "answer": "Fear and misinterpretation of symptoms"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S47",
+        "type": "From Slide",
+        "question": "What is appraisal delay?",
+        "options": [
+            "Delay in diagnosis",
+            "Delay in treatment",
+            "Delay in interpreting symptoms as illness",
+            "Delay in medication intake"
+        ],
+        "answer": "Delay in interpreting symptoms as illness"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S53",
+        "type": "Exam Style",
+        "question": "What is the placebo effect?",
+        "options": [
+            "Effect of drugs only",
+            "Effect caused by expectations",
+            "Side effects of medicine",
+            "Fake treatment with no effect"
+        ],
+        "answer": "Effect caused by expectations"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S56",
+        "type": "Application MCQ",
+        "question": "What does social contagion refer to?",
+        "options": [
+            "Spread of virus",
+            "Spread of emotions or symptoms through social influence",
+            "Genetic transmission",
+            "Medical treatment spread"
+        ],
+        "answer": "Spread of emotions or symptoms through social influence"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S59",
+        "type": "From Slide",
+        "question": "What is adherence?",
+        "options": [
+            "Following medical advice",
+            "Avoiding treatment",
+            "Changing doctors",
+            "Self-diagnosing"
+        ],
+        "answer": "Following medical advice"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S64",
+        "type": "From Slide",
+        "question": "What is mHealth?",
+        "options": [
+            "Mental health only",
+            "Mobile health technologies",
+            "Medical hospitals",
+            "Medication adherence"
+        ],
+        "answer": "Mobile health technologies"
+    },
+    {
+        "lecture": "L8",
+        "slide": "S66",
+        "type": "From Slide",
+        "question": "What is the main goal of palliative care?",
+        "options": [
+            "Cure disease",
+            "Extend life at all costs",
+            "Improve quality of life and relieve suffering",
+            "Replace hospital care"
+        ],
+        "answer": "Improve quality of life and relieve suffering"
+    }
+]

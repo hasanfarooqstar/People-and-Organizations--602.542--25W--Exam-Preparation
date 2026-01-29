@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>People & Organizations Quiz</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- HOME SCREEN -->
+<div id="home-screen" class="menu-container">
+    <header class="main-header">
+        <h1>People & Org</h1>
+        <p>Exam Preparation</p>
+    </header>
+
+    <main class="button-container">
+        <div class="divider">
+            <span>Select a Lecture</span>
+        </div>
+
+        <div class="primary-group">
+            <button class="menu-btn btn-master" onclick="startQuiz('oct-06')">
+                <span class="icon">📅</span>
+                <span class="text">October 06, 2025</span>
+            </button>
+            <button class="menu-btn btn-master" onclick="startQuiz('oct-20')">
+                <span class="icon">📅</span>
+                <span class="text">October 20, 2025</span>
+            </button>
+        </div>
+    </main>
+</div>
+
+<!-- Load Data First -->
+<script src="data.js"></script>
+
+<!-- QUIZ SCREEN -->
+<div id="quiz-screen" class="hidden menu-container" style="max-width: 800px;">
+  
+  <div class="header-controls">
+      <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+        <button onclick="goHome()" class="btn" style="background:none; color:var(--text-color); border:1px solid var(--border-color);">← Back</button>
+        <div id="score" class="score-board">Score: 0 / 0</div>
+      </div>
+      
+      <div class="action-buttons">
+        <button id="btn-show-answers" onclick="toggleShowAnswers()" class="btn btn-show">Show All Correct Answers</button>
+        <button onclick="resetQuiz()" class="btn btn-reset">Reset Quiz</button>
+      </div>
+  </div>
+
+  <div id="info" style="text-align:center; margin-bottom:20px; color:var(--sub-text);">
+    <h2 id="lecture-title" style="margin:0;"></h2>
+  </div>
+
+  <!-- Container for all Question Cards -->
+  <div id="quiz-container">
+      <!-- Cards will be injected here via JS -->
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

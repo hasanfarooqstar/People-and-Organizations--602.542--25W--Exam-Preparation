@@ -1,0 +1,28 @@
+[
+  {
+    "lecture": "Attitudes & Job Satisfaction | PaO_WS25_03.pdf",
+    "slide": "S3",
+    "type": "From Slide",
+    "question": "What are 'Attitudes' defined as in the context of Organizational Behavior?",
+    "options": {
+      "A": "Fixed personality traits that cannot be changed.",
+      "B": "Evaluative statements—either favorable or unfavorable—concerning objects, people, or events.",
+      "C": "The biological response to stress.",
+      "D": "The measure of an employee's productivity."
+    },
+    "answer": "B"
+  },
+  {
+    "lecture": "Attitudes & Job Satisfaction | PaO_WS25_03.pdf",
+    "slide": "S4",
+    "type": "From Slide",
+    "question": "Which component of an attitude represents the 'opinion or belief' segment?",
+    "options": {
+      "A": "Affective component",
+      "B": "Behavioral component",
+      "C": "Cognitive component",
+      "D": "Emotional component"
+    },
+    "answer": "C"
+  }
+]

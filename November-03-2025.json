@@ -1,0 +1,522 @@
+[
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "According to the slides, 'Person-Organization Fit' is arguably more important than 'Person-Job Fit' because:",
+        "options": {
+            "A": "It predicts salary increases better.",
+            "B": "It predicts job satisfaction, organizational commitment, and turnover.",
+            "C": "It is easier to measure.",
+            "D": "It focuses solely on technical skills."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "How is 'Personality' defined in the lecture?",
+        "options": {
+            "A": "The biological instincts of an individual.",
+            "B": "The sum total of ways in which an individual reacts to and interacts with the world around them.",
+            "C": "The rigid set of values a person holds.",
+            "D": "A fleeting mood state."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "Which personality framework classifies individuals as Extroverted/Introverted, Sensing/Intuitive, Thinking/Feeling, and Judging/Perceiving?",
+        "options": {
+            "A": "The Big Five Model",
+            "B": "The Dark Triad",
+            "C": "Myers-Briggs Type Indicator (MBTI)",
+            "D": "Hofstede’s Framework"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "In the Big Five Model, which trait is characterized by being 'dependable, organized, reliable, ambitious, hardworking, and persevering'?",
+        "options": {
+            "A": "Extraversion",
+            "B": "Agreeableness",
+            "C": "Conscientiousness",
+            "D": "Openness to Experience"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "Which Big Five trait is associated with being 'warm, kind, cooperative, sympathetic, helpful, and courteous'?",
+        "options": {
+            "A": "Neuroticism",
+            "B": "Agreeableness",
+            "C": "Conscientiousness",
+            "D": "Extraversion"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S9",
+        "type": "From Slide",
+        "question": "Which Big Five trait is essentially the opposite of 'Emotional Stability'?",
+        "options": {
+            "A": "Neuroticism",
+            "B": "Extraversion",
+            "C": "Openness",
+            "D": "Conscientiousness"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S11",
+        "type": "From Slide",
+        "question": "Which of the following is NOT one of the 'Dark Triad' traits?",
+        "options": {
+            "A": "Machiavellianism",
+            "B": "Narcissism",
+            "C": "Psychopathy",
+            "D": "Obsessive-Compulsiveness"
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "An individual who is 'pragmatic, maintains emotional distance, and believes ends can justify means' fits the description of:",
+        "options": {
+            "A": "Narcissism",
+            "B": "Machiavellianism",
+            "C": "Psychopathy",
+            "D": "Neuroticism"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "Which Dark Triad trait involves a 'lack of concern for others and a lack of guilt or remorse when their actions cause harm'?",
+        "options": {
+            "A": "Psychopathy",
+            "B": "Narcissism",
+            "C": "Machiavellianism",
+            "D": "Self-Monitoring"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S19",
+        "type": "From Slide",
+        "question": "What is 'Self-Monitoring'?",
+        "options": {
+            "A": "The degree to which a person likes themselves.",
+            "B": "A measure of an individual's ability to adjust his or her behavior to external, situational factors.",
+            "C": "The tendency to identify opportunities and show initiative.",
+            "D": "The belief in one's own inner worth."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S19",
+        "type": "From Slide",
+        "question": "Individuals who 'identify opportunities, show initiative, take action, and persevere until meaningful change occurs' have a high:",
+        "options": {
+            "A": "Proactive Personality",
+            "B": "Narcissism score",
+            "C": "Risk Aversion",
+            "D": "Machiavellianism score"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S19",
+        "type": "From Slide",
+        "question": "Core Self-Evaluation (CSE) is defined as:",
+        "options": {
+            "A": "Bottom-line conclusions individuals have about their capabilities, competence, and worth as a person.",
+            "B": "The ability to manipulate others.",
+            "C": "The tendency to be arrogant.",
+            "D": "The preference for structure."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S21",
+        "type": "From Slide",
+        "question": "According to Situation Strength Theory, in which type of situation does personality translate MOST into behavior?",
+        "options": {
+            "A": "Strong situations",
+            "B": "Weak situations",
+            "C": "Bureaucratic organizations",
+            "D": "Military drills"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S21",
+        "type": "From Slide",
+        "question": "Which of the following is NOT a component of 'Situation Strength'?",
+        "options": {
+            "A": "Clarity",
+            "B": "Consistency",
+            "C": "Constraints",
+            "D": "Creativity"
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S22",
+        "type": "From Slide",
+        "question": "What does Trait Activation Theory (TAT) predict?",
+        "options": {
+            "A": "Personality traits are irrelevant in the workplace.",
+            "B": "Some situations, events, or interventions 'activate' a trait more than others.",
+            "C": "Traits disappear as we age.",
+            "D": "Strong situations always suppress all traits."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S24",
+        "type": "From Article",
+        "question": "According to the review by Pletzer & Abrahams (2025), which personality trait is the strongest predictor across performance outcomes (Task, OCB, CWB)?",
+        "options": {
+            "A": "Extraversion",
+            "B": "Openness",
+            "C": "Conscientiousness",
+            "D": "Agreeableness"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S24",
+        "type": "From Article",
+        "question": "Pletzer & Abrahams (2025) found that personality traits explain the MOST variance in which outcome?",
+        "options": {
+            "A": "Task Performance",
+            "B": "Organizational Citizenship Behavior (OCB)",
+            "C": "Counterproductive Work Behavior (CWB)",
+            "D": "Job Interviews"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S25",
+        "type": "From Slide",
+        "question": "What are 'Terminal Values'?",
+        "options": {
+            "A": "Preferable modes of behavior or means of achieving one's terminal values.",
+            "B": "Desirable end-states of existence; the goals a person would like to achieve.",
+            "C": "The values held by employees who are terminated.",
+            "D": "Short-term financial goals."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S26",
+        "type": "From Slide",
+        "question": "In Hofstede's framework, 'Power Distance' refers to:",
+        "options": {
+            "A": "The physical distance between a manager's office and employees.",
+            "B": "The degree to which people in a country accept that power in institutions and organizations is distributed unequally.",
+            "C": "The degree to which people prefer to act as individuals rather than members of groups.",
+            "D": "The degree to which a culture emphasizes the future."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S27",
+        "type": "From Slide",
+        "question": "Which Hofstede dimension contrasts 'Masculinity' with 'Femininity'?",
+        "options": {
+            "A": "The extent to which society avoids uncertainty.",
+            "B": "The extent to which society favors traditional masculine roles vs. little differentiation of gender roles.",
+            "C": "The extent to which society emphasizes the future.",
+            "D": "The extent to which society is collectivist."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Personality and Values | PaO_WS25_05.pdf",
+        "slide": "S28",
+        "type": "From Slide",
+        "question": "The GLOBE framework adds which dimension that is NOT explicitly part of Hofstede's original five?",
+        "options": {
+            "A": "Power Distance",
+            "B": "Humane Orientation",
+            "C": "Uncertainty Avoidance",
+            "D": "Individualism"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Perception is defined as a process by which individuals:",
+        "options": {
+            "A": "Record objective reality perfectly.",
+            "B": "Organize and interpret their sensory impressions in order to give meaning to their environment.",
+            "C": "Ignore all external stimuli.",
+            "D": "Make decisions based solely on logic."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "Which of the following is NOT listed as a major factor influencing perception?",
+        "options": {
+            "A": "The Perceiver",
+            "B": "The Target",
+            "C": "The Context",
+            "D": "The Outcome"
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "Attribution Theory attempts to explain:",
+        "options": {
+            "A": "Why we judge people differently depending on the meaning we attribute to a behavior.",
+            "B": "How to calculate profit margins.",
+            "C": "Why people have different personalities.",
+            "D": "How to influence consumer behavior."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S6",
+        "type": "From Slide",
+        "question": "In Attribution Theory, which rule asks: 'Does this person display different behaviors in different situations'?",
+        "options": {
+            "A": "Consensus",
+            "B": "Consistency",
+            "C": "Distinctiveness",
+            "D": "Continuity"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S6",
+        "type": "From Slide",
+        "question": "If everyone who faces a similar situation responds in the same way, attribution theory says the behavior shows:",
+        "options": {
+            "A": "High Distinctiveness",
+            "B": "High Consensus",
+            "C": "High Consistency",
+            "D": "Internal Causation"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "What is the 'Fundamental Attribution Error'?",
+        "options": {
+            "A": "The tendency to attribute our own success to internal factors.",
+            "B": "The tendency to underestimate the influence of external factors and overestimate the influence of internal factors when judging others.",
+            "C": "The tendency to blame the environment for our failures.",
+            "D": "The tendency to stereotype groups."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "The 'Self-Serving Bias' refers to the tendency for individuals to:",
+        "options": {
+            "A": "Blame themselves for failure.",
+            "B": "Attribute their own successes to internal factors and put the blame for failure on external factors.",
+            "C": "Serve others before themselves.",
+            "D": "Analyze decisions objectively."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "Which shortcut in judging others involves 'drawing a general impression about an individual based on a single characteristic'?",
+        "options": {
+            "A": "Selective Perception",
+            "B": "Halo Effect",
+            "C": "Contrast Effect",
+            "D": "Stereotyping"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "Evaluating a person in comparison to other people you have recently encountered (e.g., in an interview) is known as:",
+        "options": {
+            "A": "Contrast Effect",
+            "B": "Halo Effect",
+            "C": "Stereotyping",
+            "D": "Selective Perception"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "The Rational Decision-Making Model assumes:",
+        "options": {
+            "A": "The decision maker has incomplete information.",
+            "B": "The decision maker has complete information and is able to identify all relevant options in an unbiased manner.",
+            "C": "The decision maker uses intuition.",
+            "D": "The decision maker chooses the first acceptable option."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S15",
+        "type": "From Slide",
+        "question": "What is 'Bounded Rationality'?",
+        "options": {
+            "A": "Making decisions with infinite time.",
+            "B": "A process of constructing simplified models that extract the essential features from problems without capturing all their complexity.",
+            "C": "A process driven entirely by emotion.",
+            "D": "The refusal to make a decision."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S15",
+        "type": "From Slide",
+        "question": "In Bounded Rationality, decision makers usually seek a solution that is:",
+        "options": {
+            "A": "Optimal",
+            "B": "Perfect",
+            "C": "Satisficing (Good enough)",
+            "D": "Complex"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "Intuitive decision making is described as:",
+        "options": {
+            "A": "A slow, conscious process.",
+            "B": "An unconscious process created out of distilled experience.",
+            "C": "A highly analytical method.",
+            "D": "Reliable in every situation."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S17",
+        "type": "From Slide",
+        "question": "Which bias involves 'staying with a decision even when there is clear evidence that it is wrong'?",
+        "options": {
+            "A": "Risk Aversion",
+            "B": "Escalation of Commitment",
+            "C": "Randomness Error",
+            "D": "Hindsight Bias"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S17",
+        "type": "From Slide",
+        "question": "Believing falsely that we could have predicted the outcome of an event AFTER that outcome is already known is called:",
+        "options": {
+            "A": "Hindsight Bias",
+            "B": "Randomness Error",
+            "C": "Escalation of Commitment",
+            "D": "Risk Aversion"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S17",
+        "type": "From Slide",
+        "question": "'Randomness Error' refers to:",
+        "options": {
+            "A": "Our tendency to believe we can predict the outcome of random events.",
+            "B": "Making random decisions.",
+            "C": "The error rate in statistical software.",
+            "D": "Preferring a sure gain over a riskier outcome."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S19",
+        "type": "From Slide",
+        "question": "Which of the following is an 'Organizational Constraint' on decision making?",
+        "options": {
+            "A": "Personality",
+            "B": "Gender",
+            "C": "Performance evaluation systems",
+            "D": "General mental ability"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S20",
+        "type": "From Slide",
+        "question": "Which ethical decision criterion focuses on 'providing the greatest good for the greatest number'?",
+        "options": {
+            "A": "Rights",
+            "B": "Utilitarianism",
+            "C": "Justice",
+            "D": "Capitalism"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Perception & Decision Making | PaO_WS25_06.pdf",
+        "slide": "S20",
+        "type": "From Slide",
+        "question": "The 'Justice' criterion in ethics focuses on:",
+        "options": {
+            "A": "Maximizing efficiency.",
+            "B": "Imposing and enforcing rules fairly and impartially.",
+            "C": "Protecting whistle-blowers.",
+            "D": "Making decisions based on intuition."
+        },
+        "answer": "B"
+    }
+]

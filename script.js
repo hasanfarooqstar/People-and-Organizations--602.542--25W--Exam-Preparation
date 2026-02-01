@@ -28,7 +28,13 @@ function startQuiz(key) {
     // Set Lecture Title based on key
     const titles = {
         'oct-06': 'October 06, 2025',
-        'oct-20': 'October 20, 2025'
+        'oct-20': 'October 20, 2025',
+        'nov-03': 'November 03, 2025',
+        'nov-17': 'November 17, 2025',
+        'dec-01': 'December 01, 2025',
+        'dec-15': 'December 15, 2025',
+        'jan-12': 'January 12, 2026',
+        'jan-26': 'January 26, 2026'
     };
     lectureTitleFn.innerText = titles[key] || "Quiz";
 

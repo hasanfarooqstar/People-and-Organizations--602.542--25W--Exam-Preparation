@@ -1,0 +1,522 @@
+[
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Which of the following is NOT listed as a function of communication in the slides?",
+        "options": {
+            "A": "Managing behavior",
+            "B": "Feedback",
+            "C": "Creating barriers",
+            "D": "Emotional sharing"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Which function of communication involves clarifying to employees what they must do and how well they are doing it?",
+        "options": {
+            "A": "Emotional sharing",
+            "B": "Persuasion",
+            "C": "Feedback",
+            "D": "Information exchange"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "In the Communication Process model, what comes immediately after 'Message to be sent'?",
+        "options": {
+            "A": "Decoding",
+            "B": "Encoding",
+            "C": "Channel",
+            "D": "Feedback"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "What is 'Noise' in the communication process?",
+        "options": {
+            "A": "Loud sounds in the office.",
+            "B": "Communication barriers that distort the clarity of the message.",
+            "C": "The feedback loop.",
+            "D": "The medium through which the message travels."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "Formal channels of communication are established by:",
+        "options": {
+            "A": "Individual employees spontaneously.",
+            "B": "The organization's authority chain.",
+            "C": "Social media.",
+            "D": "The grapevine."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S6",
+        "type": "From Slide",
+        "question": "Communication that flows from one level of a group or organization to a lower level is called:",
+        "options": {
+            "A": "Upward communication",
+            "B": "Lateral communication",
+            "C": "Downward communication",
+            "D": "Horizontal communication"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S6",
+        "type": "From Slide",
+        "question": "Which direction of communication is used to provide feedback to higher-ups and inform them of progress?",
+        "options": {
+            "A": "Downward",
+            "B": "Upward",
+            "C": "Lateral",
+            "D": "Diagonal"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "Which small group network relies on a central figure to act as the conduit for all group communication?",
+        "options": {
+            "A": "Chain",
+            "B": "Wheel",
+            "C": "All-channel",
+            "D": "Grapevine"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "The 'All-channel' network is best described as:",
+        "options": {
+            "A": "Rigidly following the formal chain of command.",
+            "B": "Permitting group members to actively communicate with each other.",
+            "C": "Relying on one leader.",
+            "D": "Slow and inaccurate."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "The 'Grapevine' is considered:",
+        "options": {
+            "A": "A formal communication network.",
+            "B": "An informal communication network.",
+            "C": "A reliable source of official policy.",
+            "D": "A barrier to communication."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "What is 'Channel Richness'?",
+        "options": {
+            "A": "The cost of the communication channel.",
+            "B": "The amount of information that can be transmitted during a communication episode.",
+            "C": "The number of people reached.",
+            "D": "The speed of the internet connection."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "Which communication channel is considered the 'richest'?",
+        "options": {
+            "A": "Formal reports",
+            "B": "Email",
+            "C": "Face-to-face conversations",
+            "D": "Memos"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S15",
+        "type": "From Slide",
+        "question": "Which barrier to communication involves a sender purposely manipulating information so the receiver will see it more favorably?",
+        "options": {
+            "A": "Selective Perception",
+            "B": "Filtering",
+            "C": "Information Overload",
+            "D": "Silence"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S15",
+        "type": "From Slide",
+        "question": "'Information Overload' occurs when:",
+        "options": {
+            "A": "Information inflow exceeds an individual's processing capacity.",
+            "B": "The internet is too slow.",
+            "C": "Too few emails are received.",
+            "D": "The message is too simple."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "In 'High-context cultures' (like China or Japan), communication relies heavily on:",
+        "options": {
+            "A": "Explicit written words.",
+            "B": "Nonverbal and subtle situational cues.",
+            "C": "Legal contracts.",
+            "D": "Direct verbal statements."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "In 'Low-context cultures' (like Germany or the US), communication is:",
+        "options": {
+            "A": "Ambiguous and subtle.",
+            "B": "Relies on body language.",
+            "C": "Relies heavily on words to convey meaning.",
+            "D": "Based on social status."
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Leadership is defined as the ability to:",
+        "options": {
+            "A": "Force people to work.",
+            "B": "Influence a group toward the achievement of a vision or a set of goals.",
+            "C": "Manage day-to-day operations.",
+            "D": "Maintain the status quo."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Which leadership theory focuses on personal qualities and characteristics?",
+        "options": {
+            "A": "Behavioral theories",
+            "B": "Trait theories",
+            "C": "Contingency theories",
+            "D": "LMX theory"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Behavioral theories of leadership focus on:",
+        "options": {
+            "A": "Who the leader is (personality).",
+            "B": "What the leader does (specific behaviors).",
+            "C": "The situation.",
+            "D": "The followers' traits."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "The two main dimensions of leadership behavior identified in the slides are:",
+        "options": {
+            "A": "Introversion and Extroversion",
+            "B": "Initiating Structure and Consideration",
+            "C": "Thinking and Feeling",
+            "D": "Power and Influence"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "Which Big Five trait is most consistently associated with leadership emergence?",
+        "options": {
+            "A": "Neuroticism",
+            "B": "Extraversion",
+            "C": "Agreeableness",
+            "D": "Conscientiousness"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "Leader-Member Exchange (LMX) theory argues that:",
+        "options": {
+            "A": "Leaders treat all followers the same.",
+            "B": "Leaders establish a special relationship with a small group of followers (the Ingroup).",
+            "C": "Leadership is genetic.",
+            "D": "Followers lead themselves."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S6",
+        "type": "From Slide",
+        "question": "Charismatic Leadership theory relies on followers attributing heroic or extraordinary leadership abilities when they observe:",
+        "options": {
+            "A": "Certain behaviors.",
+            "B": "High intelligence.",
+            "C": "Wealth.",
+            "D": "Physical strength."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "Transactional Leaders guide their followers by:",
+        "options": {
+            "A": "Inspiring them with a vision.",
+            "B": "Clarifying role and task requirements.",
+            "C": "Providing intellectual stimulation.",
+            "D": "Acting as a mentor."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "Which type of leader inspires followers to transcend their own self-interests for the good of the organization?",
+        "options": {
+            "A": "Transactional Leader",
+            "B": "Transformational Leader",
+            "C": "Laissez-Faire Leader",
+            "D": "Autocratic Leader"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S10",
+        "type": "From Slide",
+        "question": "What is 'Responsible Leadership'?",
+        "options": {
+            "A": "Maximizing profit at all costs.",
+            "B": "Leading with a focus on societal impact and stakeholder relationships (e.g., CSR).",
+            "C": "Always following the rules.",
+            "D": "Micromanaging employees."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S11",
+        "type": "From Slide",
+        "question": "Servant Leadership focuses primarily on:",
+        "options": {
+            "A": "The leader's self-interest.",
+            "B": "Serving the needs of others/followers.",
+            "C": "Strict discipline.",
+            "D": "Gaining power."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "Which leadership style involves 'knowing who you are, knowing what you believe in and value, and acting on those values openly'?",
+        "options": {
+            "A": "Authentic Leadership",
+            "B": "Transactional Leadership",
+            "C": "Charismatic Leadership",
+            "D": "Bureaucratic Leadership"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "Abusive Supervision refers to:",
+        "options": {
+            "A": "Strict enforcement of rules.",
+            "B": "The perception that a supervisor is hostile in their verbal and nonverbal behavior.",
+            "C": "Providing negative feedback constructively.",
+            "D": "Firing an employee."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "Trust is defined as:",
+        "options": {
+            "A": "Blind faith.",
+            "B": "A psychological state that exists when you agree to make yourself vulnerable to another because you have positive expectations.",
+            "C": "A legal contract.",
+            "D": "The absence of conflict."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "Which of the following is NOT listed as a key characteristic of a trustworthy leader?",
+        "options": {
+            "A": "Integrity",
+            "B": "Benevolence",
+            "C": "Ability",
+            "D": "Wealth"
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S18",
+        "type": "From Slide",
+        "question": "The Attribution Theory of Leadership suggests that:",
+        "options": {
+            "A": "Leadership is an objective reality.",
+            "B": "Leadership is merely an attribution that people make about other individuals.",
+            "C": "Leaders are born, not made.",
+            "D": "Leadership has no impact on performance."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S19",
+        "type": "From Slide",
+        "question": "Substitutes for leadership are factors that:",
+        "options": {
+            "A": "Make leadership impossible.",
+            "B": "Replace the influence of a leader, making the leader's behavior unnecessary.",
+            "C": "Enhance the leader's power.",
+            "D": "Create conflict."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S19",
+        "type": "From Slide",
+        "question": "Neutralizers of leadership are factors that:",
+        "options": {
+            "A": "Make it impossible for leader behavior to make any difference to follower outcomes.",
+            "B": "Help the leader succeed.",
+            "C": "Are always positive.",
+            "D": "Increase follower motivation."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Article: An Inconvenient Truth | Eva et al. (2025)",
+        "slide": "Abstract",
+        "type": "From Article",
+        "question": "The main finding of Eva et al. (2025) regarding leadership measures is:",
+        "options": {
+            "A": "Each leadership style is completely distinct.",
+            "B": "Most leadership measures share a massive amount of variance (overlap) and lack unique predictive value.",
+            "C": "New leadership theories are needed.",
+            "D": "Leadership does not matter."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Article: An Inconvenient Truth | Eva et al. (2025)",
+        "slide": "Method",
+        "type": "From Article",
+        "question": "What statistical method did Eva et al. use to examine the overlap between leadership styles?",
+        "options": {
+            "A": "Simple correlation",
+            "B": "Bifactor exploratory structural equation modelling (ESEM)",
+            "C": "T-tests",
+            "D": "Case studies"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Article: An Inconvenient Truth | Eva et al. (2025)",
+        "slide": "Discussion",
+        "type": "From Article",
+        "question": "The authors suggest that the 'shared variance' among leadership styles likely represents:",
+        "options": {
+            "A": "A specific trait like extraversion.",
+            "B": "A broad, general factor of 'good leadership' (transformational leadership) or LMX.",
+            "C": "Measurement error.",
+            "D": "Cultural bias."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Which function of communication allows for the expression of feelings and fulfillment of social needs?",
+        "options": {
+            "A": "Persuasion",
+            "B": "Emotional sharing",
+            "C": "Managing behavior",
+            "D": "Feedback"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Communication | PaO_WS25_11.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "Which of the following is a form of Nonverbal Communication?",
+        "options": {
+            "A": "Email",
+            "B": "Intonations and facial expressions",
+            "C": "Formal reports",
+            "D": "Memos"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Leadership | PaO_WS25_12.pdf",
+        "slide": "S9",
+        "type": "From Slide",
+        "question": "Which of the following is NOT a component of Transformational Leadership?",
+        "options": {
+            "A": "Idealized Influence",
+            "B": "Inspirational Motivation",
+            "C": "Management by Exception (Passive)",
+            "D": "Intellectual Stimulation"
+        },
+        "answer": "C"
+    }
+]

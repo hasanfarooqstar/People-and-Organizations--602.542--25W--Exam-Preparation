@@ -1,0 +1,522 @@
+[
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Which of the following is NOT one of the seven key elements of organizational structure listed in the slides?",
+        "options": {
+            "A": "Work specialization",
+            "B": "Departmentalization",
+            "C": "Market share",
+            "D": "Chain of command"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "Work specialization is also known as:",
+        "options": {
+            "A": "Departmentalization",
+            "B": "Division of labor",
+            "C": "Span of control",
+            "D": "Formalization"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "What is a potential negative consequence (human cost) of carrying work specialization too far?",
+        "options": {
+            "A": "Boredom and fatigue",
+            "B": "Increased efficiency",
+            "C": "Lower costs",
+            "D": "Faster training"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S6",
+        "type": "From Slide",
+        "question": "Which type of departmentalization groups activities by 'product or service'?",
+        "options": {
+            "A": "Functional",
+            "B": "Product",
+            "C": "Geographic",
+            "D": "Process"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "The 'Chain of Command' is an unbroken line of authority that:",
+        "options": {
+            "A": "Extends from the top of the organization to the lowest echelon and clarifies who reports to whom.",
+            "B": "Determines the number of subordinates a manager can direct.",
+            "C": "Groups jobs together.",
+            "D": "Describes the degree of standardization."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "A 'Wide' span of control is associated with which organizational benefit?",
+        "options": {
+            "A": "Tight supervision",
+            "B": "Increased complexity of vertical communication",
+            "C": "Cost efficiency (fewer managers)",
+            "D": "More layers of management"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S9",
+        "type": "From Slide",
+        "question": "In a 'Centralized' organization, decision making is:",
+        "options": {
+            "A": "Pushed down to the managers closest to the action.",
+            "B": "Concentrated at a single point in the organization.",
+            "C": "Shared equally among all employees.",
+            "D": "Non-existent."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S10",
+        "type": "From Slide",
+        "question": "High 'Formalization' means:",
+        "options": {
+            "A": "Jobs are highly standardized with many rules and procedures.",
+            "B": "Employees have a lot of freedom.",
+            "C": "There are no job descriptions.",
+            "D": "Communication is informal."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "Which organizational structure is characterized by a 'low degree of departmentalization, wide spans of control, and little formalization'?",
+        "options": {
+            "A": "Bureaucracy",
+            "B": "Simple Structure",
+            "C": "Matrix Structure",
+            "D": "Virtual Structure"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "The 'Matrix Structure' creates:",
+        "options": {
+            "A": "A single chain of command.",
+            "B": "Dual lines of authority (combining functional and product departmentalization).",
+            "C": "A structure with no managers.",
+            "D": "Total decentralization."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "Which structure typically outsources major business functions?",
+        "options": {
+            "A": "Bureaucracy",
+            "B": "Matrix Structure",
+            "C": "Virtual Structure",
+            "D": "Simple Structure"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S20",
+        "type": "From Slide",
+        "question": "Which model of organizational design is 'synonymous with the bureaucracy' (high specialization, rigid departmentalization)?",
+        "options": {
+            "A": "Organic Model",
+            "B": "Mechanistic Model",
+            "C": "Boundaryless Model",
+            "D": "Virtual Model"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S20",
+        "type": "From Slide",
+        "question": "An 'Organic Model' is characterized by:",
+        "options": {
+            "A": "Cross-functional teams and free flow of information.",
+            "B": "Rigid chain of command.",
+            "C": "High formalization.",
+            "D": "Centralization."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Foundations of Organization Structure | PaO_WS25_15.pdf",
+        "slide": "S21",
+        "type": "From Slide",
+        "question": "Which strategy typically prefers a 'Mechanistic' structure?",
+        "options": {
+            "A": "Innovation",
+            "B": "Cost minimization",
+            "C": "Imitation (for new undertakings)",
+            "D": "Creativity"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Organizational Culture is defined as:",
+        "options": {
+            "A": "The official rules written in the handbook.",
+            "B": "A system of shared meaning held by members that distinguishes the organization from others.",
+            "C": "The diversity of the workforce.",
+            "D": "The profitability of the company."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "A 'Dominant Culture' expresses:",
+        "options": {
+            "A": "The core values shared by a majority of the organization's members.",
+            "B": "The values of a small group facing common problems.",
+            "C": "The values of the CEO only.",
+            "D": "The laws of the country."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "In a 'Strong Culture', core values are:",
+        "options": {
+            "A": "Loosely held and rarely discussed.",
+            "B": "Intensely held and widely shared.",
+            "C": "Kept secret.",
+            "D": "Constantly changing."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "What is a likely outcome of a strong organizational culture?",
+        "options": {
+            "A": "Higher employee turnover",
+            "B": "Lower employee turnover and increased cohesiveness",
+            "C": "Reduced influence on behavior",
+            "D": "Total chaos"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "Repetitive sequences of activities that express and reinforce the key values of the organization are called:",
+        "options": {
+            "A": "Stories",
+            "B": "Rituals",
+            "C": "Material Symbols",
+            "D": "Language"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "Which of the following is a way employees learn culture?",
+        "options": {
+            "A": "Stories",
+            "B": "Material Symbols (e.g., office layout)",
+            "C": "Language (jargon)",
+            "D": "All of the above"
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "The ultimate source of an organization's culture is usually:",
+        "options": {
+            "A": "The government.",
+            "B": "The founders.",
+            "C": "The customers.",
+            "D": "The newest employees."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S9",
+        "type": "From Slide",
+        "question": "In the socialization process, the stage that occurs 'before' the employee joins the organization is:",
+        "options": {
+            "A": "Encounter stage",
+            "B": "Metamorphosis stage",
+            "C": "Pre-arrival stage",
+            "D": "Exit stage"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S10",
+        "type": "From Slide",
+        "question": "Which of the following is NOT a function of culture?",
+        "options": {
+            "A": "Defines boundaries",
+            "B": "Facilitates commitment",
+            "C": "Enhances social system stability",
+            "D": "Replaces formal leadership completely"
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "Culture can be a 'liability' when:",
+        "options": {
+            "A": "It becomes a barrier to change.",
+            "B": "It becomes a barrier to diversity.",
+            "C": "It hinders mergers and acquisitions.",
+            "D": "All of the above."
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "Which of the following is listed as a 'Force for Change'?",
+        "options": {
+            "A": "Technology",
+            "B": "Economic shocks",
+            "C": "Social trends",
+            "D": "All of the above"
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "What is 'Planned Change'?",
+        "options": {
+            "A": "Accidental change.",
+            "B": "Change activities that are intentional and goal oriented.",
+            "C": "Change that happens due to luck.",
+            "D": "Reactive change."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "People who act as catalysts and assume responsibility for managing change activities are called:",
+        "options": {
+            "A": "Managers",
+            "B": "Change Agents",
+            "C": "CEOs",
+            "D": "Employees"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S6",
+        "type": "From Slide",
+        "question": "Resistance to change can be positive if it leads to:",
+        "options": {
+            "A": "Violent conflict.",
+            "B": "Open discussion and debate.",
+            "C": "Total shutdown of operations.",
+            "D": "Silent sabotage."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "What is the first step in Lewin's Three-Step Change Model?",
+        "options": {
+            "A": "Freezing",
+            "B": "Unfreezing",
+            "C": "Moving",
+            "D": "Refreezing"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "In Lewin's model, 'Restraining forces' are forces that:",
+        "options": {
+            "A": "Direct behavior away from the status quo.",
+            "B": "Hinder movement from the existing equilibrium.",
+            "C": "Encourage change.",
+            "D": "Are neutral."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S9",
+        "type": "From Slide",
+        "question": "Kotter's Eight-Step Plan for Implementing Change builds on:",
+        "options": {
+            "A": "Maslow's Hierarchy.",
+            "B": "Lewin's Three-Step Model.",
+            "C": "The Big Five Model.",
+            "D": "Equity Theory."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S10",
+        "type": "From Slide",
+        "question": "Organizational Development (OD) values:",
+        "options": {
+            "A": "Human and democratic growth.",
+            "B": "Strict hierarchy.",
+            "C": "Profit above all else.",
+            "D": "Secrecy."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "Stress is an unpleasant psychological process that occurs in response to:",
+        "options": {
+            "A": "Environmental pressures only.",
+            "B": "Environmental pressures (stressors).",
+            "C": "Relaxation techniques.",
+            "D": "Good news."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "Challenge stressors differ from Hindrance stressors in that Challenge stressors:",
+        "options": {
+            "A": "Are associated with workload, pressure to complete tasks, and time urgency.",
+            "B": "Keep you from reaching your goals (e.g., red tape).",
+            "C": "Are always bad.",
+            "D": "Reduce motivation."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "What is 'Allostasis'?",
+        "options": {
+            "A": "A static state of equilibrium.",
+            "B": "Working to change behavior and attitudes to find stability.",
+            "C": "A complete breakdown of the system.",
+            "D": "The absence of stress."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "Which of the following is an 'Organizational Factor' that causes stress?",
+        "options": {
+            "A": "Economic uncertainty",
+            "B": "Task demands and Role demands",
+            "C": "Family problems",
+            "D": "Personality traits"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "Physiological symptoms of stress include:",
+        "options": {
+            "A": "Anxiety and lower job satisfaction.",
+            "B": "Immediate effects, illness, and chronic health conditions.",
+            "C": "Lower job performance.",
+            "D": "Higher absenteeism."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S15",
+        "type": "From Slide",
+        "question": "Which of the following is an 'Individual' approach to managing stress?",
+        "options": {
+            "A": "Employee sabbaticals",
+            "B": "Wellness programs",
+            "C": "Time management and physical exercise",
+            "D": "Job redesign"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Organizational Change & Stress | PaO_WS25_17.pdf",
+        "slide": "S15",
+        "type": "From Slide",
+        "question": "Which of the following is an 'Organizational' approach to managing stress?",
+        "options": {
+            "A": "Relaxation techniques",
+            "B": "Social support networks",
+            "C": "Goal-setting and Job redesign",
+            "D": "Ignoring the problem"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Organizational Culture | PaO_WS25_16.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "To create an ethical culture, managers should:",
+        "options": {
+            "A": "Be a visible role model.",
+            "B": "Communicate ethical expectations.",
+            "C": "Visibly reward ethical acts and punish unethical ones.",
+            "D": "All of the above."
+        },
+        "answer": "D"
+    }
+]

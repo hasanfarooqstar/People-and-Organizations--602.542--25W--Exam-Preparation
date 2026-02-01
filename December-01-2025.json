@@ -1,0 +1,522 @@
+[
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "Which type of group is 'defined by the organization's structure'?",
+        "options": {
+            "A": "Informal Group",
+            "B": "Interest Group",
+            "C": "Formal Group",
+            "D": "Friendship Group"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S5",
+        "type": "From Slide",
+        "question": "What is 'Ingroup Favoritism'?",
+        "options": {
+            "A": "The tendency to dislike all groups.",
+            "B": "The perspective that we see members of our ingroup as better than other people, and people not in our group as all the same.",
+            "C": "The tendency to favor outsiders over insiders.",
+            "D": "The desire to leave a group."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S6",
+        "type": "From Book",
+        "question": "In the Five-Stage Model of group development, which stage is characterized by 'intragroup conflict'?",
+        "options": {
+            "A": "Forming",
+            "B": "Storming",
+            "C": "Norming",
+            "D": "Performing"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S6",
+        "type": "From Book",
+        "question": "Which stage involves the group structure becoming fully functional and accepted?",
+        "options": {
+            "A": "Norming",
+            "B": "Storming",
+            "C": "Performing",
+            "D": "Adjourning"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "According to the Punctuated-Equilibrium Model, when does a major transition occur in a temporary group?",
+        "options": {
+            "A": "At the very beginning.",
+            "B": "Exactly halfway between the first meeting and the official deadline.",
+            "C": "One day before the deadline.",
+            "D": "After the project is finished."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "What is 'Role Conflict'?",
+        "options": {
+            "A": "When an individual views their role differently than their manager.",
+            "B": "When compliance with one role requirement may make it difficult to comply with another.",
+            "C": "When a group has no leader.",
+            "D": "When roles are not clearly defined."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "Which term describes 'an individual's view of how he or she is supposed to act in a given situation'?",
+        "options": {
+            "A": "Role Expectation",
+            "B": "Role Perception",
+            "C": "Role Conflict",
+            "D": "Norms"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S10",
+        "type": "From Slide",
+        "question": "The Hawthorne Studies were significant because they demonstrated that:",
+        "options": {
+            "A": "Physical conditions (lighting) are the only factor in productivity.",
+            "B": "Money is the sole motivator.",
+            "C": "Group norms and social status significantly affect individual behavior and output.",
+            "D": "Individuals work best in isolation."
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "What is 'Deviant Workplace Behavior'?",
+        "options": {
+            "A": "Working harder than everyone else.",
+            "B": "Voluntary behavior that violates significant organizational norms and threatens the well-being of the organization or its members.",
+            "C": "Creative problem solving.",
+            "D": "Asking for a raise."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "According to Status Characteristics Theory, which of the following is a source of status?",
+        "options": {
+            "A": "The power a person wields over others.",
+            "B": "A person's ability to contribute to a group's goals.",
+            "C": "An individual's personal characteristics.",
+            "D": "All of the above."
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "What is 'Social Loafing'?",
+        "options": {
+            "A": "Socializing too much during work hours.",
+            "B": "The tendency for individuals to expend less effort when working collectively than when working individually.",
+            "C": "The tendency to work harder in a group.",
+            "D": "The conflict between group members."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S14",
+        "type": "From Slide",
+        "question": "Which of the following is NOT a way to prevent social loafing?",
+        "options": {
+            "A": "Set group goals.",
+            "B": "Increase intergroup competition.",
+            "C": "Engage in peer evaluation.",
+            "D": "Make individual contributions anonymous."
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "If a group has High Cohesiveness but Low Performance Norms, the productivity will likely be:",
+        "options": {
+            "A": "High",
+            "B": "Moderate",
+            "C": "Low",
+            "D": "Unpredictable"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "Which combination leads to the HIGHEST productivity?",
+        "options": {
+            "A": "High Cohesiveness + High Norms",
+            "B": "Low Cohesiveness + High Norms",
+            "C": "High Cohesiveness + Low Norms",
+            "D": "Low Cohesiveness + Low Norms"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S19",
+        "type": "From Slide",
+        "question": "What are 'Faultlines' in a diverse group?",
+        "options": {
+            "A": "Physical cracks in the office building.",
+            "B": "Perceived divisions that split groups into two or more subgroups based on individual differences (e.g., gender, age).",
+            "C": "The lines of communication between managers.",
+            "D": "The rules regarding discrimination."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "Textbook Ch 9",
+        "type": "From Book",
+        "question": "What is 'Groupthink'?",
+        "options": {
+            "A": "A phenomenon where the norm for consensus overrides the realistic appraisal of alternative courses of action.",
+            "B": "The collective intelligence of a group.",
+            "C": "A brainstorming technique.",
+            "D": "The tendency for groups to make riskier decisions."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "Textbook Ch 9",
+        "type": "From Book",
+        "question": "Which group decision-making technique restricts discussion during the decision-making process to encourage independent thinking?",
+        "options": {
+            "A": "Brainstorming",
+            "B": "Nominal Group Technique (NGT)",
+            "C": "Electronic Meeting",
+            "D": "Social Loafing"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S3",
+        "type": "From Slide",
+        "question": "How is a 'Work Team' defined differently from a 'Work Group'?",
+        "options": {
+            "A": "Teams interact primarily to share information.",
+            "B": "Teams generate positive synergy through coordinated effort.",
+            "C": "Groups have mutual accountability, while teams have individual accountability.",
+            "D": "There is no difference."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "In a Work Team, accountability is:",
+        "options": {
+            "A": "Individual only",
+            "B": "Individual and Mutual",
+            "C": "Mutual only",
+            "D": "None"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "In a Work Group, synergy is typically:",
+        "options": {
+            "A": "Positive",
+            "B": "Neutral (sometimes negative)",
+            "C": "Exponential",
+            "D": "Infinite"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S6",
+        "type": "From Slide",
+        "question": "Which type of team rarely has the authority to unilaterally implement their suggestions?",
+        "options": {
+            "A": "Self-Managed Work Teams",
+            "B": "Problem-Solving Teams",
+            "C": "Cross-Functional Teams",
+            "D": "Virtual Teams"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S7",
+        "type": "From Slide",
+        "question": "Self-Managed Work Teams typically take on responsibilities such as:",
+        "options": {
+            "A": "Only sharing information.",
+            "B": "Planning, scheduling, and supervisory responsibilities.",
+            "C": "Managing different departments.",
+            "D": "Working from home."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S8",
+        "type": "From Slide",
+        "question": "Which type of team consists of employees from about the same hierarchical level, but different work areas?",
+        "options": {
+            "A": "Problem-Solving Teams",
+            "B": "Self-Managed Teams",
+            "C": "Cross-Functional Teams",
+            "D": "Virtual Teams"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S9",
+        "type": "From Slide",
+        "question": "What is a key challenge for Virtual Teams?",
+        "options": {
+            "A": "They are too expensive.",
+            "B": "Less social rapport and direct interaction.",
+            "C": "They require too much office space.",
+            "D": "They cannot share documents."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S11",
+        "type": "From Slide",
+        "question": "In the Team Effectiveness Model, 'Leadership and Structure' falls under which category?",
+        "options": {
+            "A": "Context",
+            "B": "Composition",
+            "C": "Process",
+            "D": "Outcome"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "Which personality trait is especially important for team effectiveness (Composition)?",
+        "options": {
+            "A": "Narcissism",
+            "B": "Conscientiousness",
+            "C": "Introversion",
+            "D": "Machiavellianism"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S12",
+        "type": "From Slide",
+        "question": "Regarding team size, the slides suggest:",
+        "options": {
+            "A": "Larger teams are always better.",
+            "B": "Teams should have 20+ members.",
+            "C": "Most experts agree on keeping teams small (e.g., 5-9 members).",
+            "D": "Size does not matter."
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "Which process variable refers to 'team members' knowledge and beliefs about how the work gets done'?",
+        "options": {
+            "A": "Team Efficacy",
+            "B": "Mental Models",
+            "C": "Social Loafing",
+            "D": "Reflexivity"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "What is 'Team Efficacy'?",
+        "options": {
+            "A": "The team's belief that they can succeed.",
+            "B": "The conflict within the team.",
+            "C": "The diversity of the team.",
+            "D": "The size of the team."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "Reflexivity in teams means:",
+        "options": {
+            "A": "Reacting quickly to threats.",
+            "B": "Reflecting on and adjusting the master plan when necessary.",
+            "C": "Copying other teams.",
+            "D": "Ignoring feedback."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "Relationship conflicts are those based on:",
+        "options": {
+            "A": "Work content",
+            "B": "Task goals",
+            "C": "Interpersonal incompatibility, tension, and animosity",
+            "D": "Process logistics"
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "Generally, Relationship Conflict is considered:",
+        "options": {
+            "A": "Functional (Positive)",
+            "B": "Dysfunctional (Negative)",
+            "C": "Neutral",
+            "D": "Essential for innovation"
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S16",
+        "type": "From Slide",
+        "question": "Task Conflict stimulates discussion and promotes critical assessment but is most effective when:",
+        "options": {
+            "A": "It is extremely high.",
+            "B": "It is kept low to moderate.",
+            "C": "It turns into relationship conflict.",
+            "D": "It is completely avoided."
+        },
+        "answer": "B"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S15",
+        "type": "From Book",
+        "question": "To create team players, organizations can use:",
+        "options": {
+            "A": "Selection, Training, and Rewards.",
+            "B": "Punishment and Isolation.",
+            "C": "Individual bonuses only.",
+            "D": "Strict hierarchy."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Article: The Paradox of Team Conflict | Yuan et al. (2025)",
+        "slide": "Abstract",
+        "type": "From Article",
+        "question": "The meta-analysis by Yuan et al. (2025) revisited the 'paradox' that:",
+        "options": {
+            "A": "Task conflict is theoretically supposed to be beneficial, but empirical results are inconsistent or weak.",
+            "B": "Relationship conflict is actually good for teams.",
+            "C": "Conflict does not exist in high-performing teams.",
+            "D": "Teams need no conflict at all."
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Article: The Paradox of Team Conflict | Yuan et al. (2025)",
+        "slide": "Results",
+        "type": "From Article",
+        "question": "What did the updated meta-analysis find regarding the correlation between Task Conflict and Team Performance?",
+        "options": {
+            "A": "It is strongly positive.",
+            "B": "It is strongly negative.",
+            "C": "It is generally non-significant (close to zero) or negligible.",
+            "D": "It depends entirely on team size."
+        },
+        "answer": "C"
+    },
+    {
+        "lecture": "Article: The Paradox of Team Conflict | Yuan et al. (2025)",
+        "slide": "Results",
+        "type": "From Article",
+        "question": "Which type of conflict was consistently found to be negatively related to team performance?",
+        "options": {
+            "A": "Task Conflict",
+            "B": "Relationship Conflict",
+            "C": "Process Conflict",
+            "D": "Both B and C"
+        },
+        "answer": "D"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S11",
+        "type": "From Slide",
+        "question": "In the Team Effectiveness Model, 'Trust' is a variable under:",
+        "options": {
+            "A": "Context",
+            "B": "Composition",
+            "C": "Process",
+            "D": "Output"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Understanding Work Teams | PaO_WS25_10.pdf",
+        "slide": "S13",
+        "type": "From Slide",
+        "question": "Which of the following is considered a 'Process' loss in teams?",
+        "options": {
+            "A": "Social Loafing",
+            "B": "High Intelligence",
+            "C": "Adequate Resources",
+            "D": "Clear Goals"
+        },
+        "answer": "A"
+    },
+    {
+        "lecture": "Foundations of Group Behavior | PaO_WS25_09.pdf",
+        "slide": "S4",
+        "type": "From Slide",
+        "question": "Which component of Social Identity Theory refers to 'connecting with the aggregate characteristics of our groups'?",
+        "options": {
+            "A": "Relational identification",
+            "B": "Collective identification",
+            "C": "Role identification",
+            "D": "Status identification"
+        },
+        "answer": "B"
+    }
+]
